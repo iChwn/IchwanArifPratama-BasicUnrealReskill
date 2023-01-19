@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Ichwan/UE5/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Enemy.uasset",
+				"D:/Ichwan/UE5/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset",
+				"D:/Ichwan/UE5/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Bullet.uasset",
+				"D:/Ichwan/UE5/SpaceshipBattleStarter/Content/SpaceshipBattle/Maps/TutorialMap.umap",
+				"D:/Ichwan/UE5/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Bullet.uasset",
+				"D:/Ichwan/UE5/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset",
+				"D:/DataAdit/unreal-learn/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset",
+				"D:/DataAdit/unreal-learn/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset",
+				"D:/DataAdit/unreal-learn/SpaceshipBattleStarter/Content/SpaceshipBattle/Materials/M_Particle.uasset",
+				"D:/DataAdit/unreal-learn/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset",
+				"D:/DataAdit/unreal-learn/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Enemy.uasset",
+				"D:/DataAdit/unreal-learn/SpaceshipBattleStarter/Content/SpaceshipBattle/Maps/TutorialMap.umap"
+			]
+		}
+	]
+}
